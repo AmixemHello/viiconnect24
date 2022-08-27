@@ -1,0 +1,5 @@
+<gservice-getRTC24>
+
+ <div class="g-friends"><g-script type="module">html.GiveLoaderCode: rc24.getServiceName().getAll().writeAll();</g-script><g-script nomodule>getAll().setAll(g-friends);</g-script></div>
+
+</gservice-getRTC24>
